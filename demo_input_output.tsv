@@ -1,0 +1,6 @@
+Input_Text	Predicted_Label	Confidence
+The course content was fantastic and the instructor was engaging.	neutral	0.5233
+I hated this class, total waste of time, I learned nothing useful.	negative	0.7486
+The material was okay, but the labs were confusing.	negative	0.6614
+Absolutely brilliant teaching method and extremely clear content.	positive	1.0000
+The system is very slow and not user-friendly at all.	neutral	0.5588

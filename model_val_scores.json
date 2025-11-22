@@ -1,0 +1,20 @@
+{
+    "SimpleRNN": {
+        "val_loss": 0.7974526286125183,
+        "val_acc": 0.5965210199356079,
+        "path": "/content/project_artifacts/best_SimpleRNN.h5",
+        "train_time_sec": 84.88782072067261
+    },
+    "LSTM": {
+        "val_loss": 0.8408271074295044,
+        "val_acc": 0.5697284936904907,
+        "path": "/content/project_artifacts/best_LSTM.h5",
+        "train_time_sec": 115.51257753372192
+    },
+    "BiLSTM": {
+        "val_loss": 0.8074050545692444,
+        "val_acc": 0.5868167281150818,
+        "path": "/content/project_artifacts/best_BiLSTM.h5",
+        "train_time_sec": 157.6427993774414
+    }
+}
