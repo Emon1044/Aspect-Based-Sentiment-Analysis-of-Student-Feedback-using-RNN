@@ -1,0 +1,10 @@
+NNFLL Final Project Submission Checklist:
+
+1. best_model_project.h5 - The weights of the best performing model.
+2. tokenizer.json - The tokenizer fitted on the training data.
+3. label_map.json - Mapping of integers to class names.
+4. classification_report.json - Detailed metrics of the final model on the test set.
+5. demo_input_output.tsv - 5 sample inputs with model predictions.
+6. model_val_scores.json - JSON containing validation scores and training times.
+7. training_logs/*.csv - Training history logs for all models.
+8. requirements.txt - Full list of Python libraries.
